@@ -1,6 +1,6 @@
 # EV Market Forecast Dashboard
 
-* **Name:** P.Neelesh
+* **Name:** P.Sai Neelesh
 * **Company:** Codectechnologies
 * **Domain:** EV Technology
 * **Duration:** june 01, 2026 – July 01, 2026
